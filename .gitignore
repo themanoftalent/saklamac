@@ -1,0 +1,17 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+DerivedData/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# OS artifacts
+.DS_Store
+*.swp
+*~
+
+# Generated bundles
+Saklamac.app/
